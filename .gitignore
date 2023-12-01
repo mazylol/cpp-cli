@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+build
+subprojects/CLI11-2.3.2
